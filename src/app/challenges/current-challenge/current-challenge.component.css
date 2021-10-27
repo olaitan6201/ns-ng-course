@@ -1,0 +1,14 @@
+/* StackLayout{
+    border-color: blue;
+    border-width: 5;
+    padding: 60;
+    margin-top: 40;
+} */
+
+.title{
+    font-size: 28;
+    text-align: center;
+    color: #7c015d;
+    font-weight: bold;
+    margin-top: 10;
+}
