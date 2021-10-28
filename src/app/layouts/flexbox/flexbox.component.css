@@ -1,0 +1,25 @@
+Label{
+    width: 100;
+    height: 50;
+}
+
+#i1{
+    background: red;
+}
+
+#i2{
+    background: blue;
+}
+
+#i3{
+    background: orange;
+}
+
+
+FlexboxLayout{
+    border-color: rgb(129, 134, 129);
+    border-width: 5;
+    height: 300;
+    width: 100;
+    /* flex-direction: row-reverse; */
+}

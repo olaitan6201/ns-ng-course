@@ -4,6 +4,7 @@ import { NativeScriptFormsModule, NativeScriptModule } from '@nativescript/angul
 
 import { AppComponent } from './app.component';
 import { StackComponent } from './layouts/stack/stack.component';
+import { FlexboxComponent } from './layouts/flexbox/flexbox.component';
 
 @NgModule({
   bootstrap: [AppComponent],
@@ -11,7 +12,8 @@ import { StackComponent } from './layouts/stack/stack.component';
   declarations: [
     AppComponent,
     CurrentChallengeComponent,
-    StackComponent
+    StackComponent,
+    FlexboxComponent
   ],
   providers: [],
   schemas: [NO_ERRORS_SCHEMA],
